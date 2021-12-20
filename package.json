@@ -1,0 +1,19 @@
+{
+  "name": "crudjs",
+  "version": "1.0.0",
+  "description": "Crud operation with mongodb",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemom app.js"
+  },
+  "author": "Annu Kumari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
